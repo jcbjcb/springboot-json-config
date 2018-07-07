@@ -20,7 +20,7 @@ import java.util.Map;
 @Component
 public class BasicConfig {
 
-    //{"db": {"host": "192.168.12.216", "name": "strategy", "port": 3309, "password": "www.do9.com", "username": "root"},
+    //{"db": {"host": "192.168.12.216", "name": "strategy", "port": 3309, "password": "root", "username": "root"},
     // "redis": {"db": 1, "host": "192.168.12.216", "port": 6379, "password": null},
     // "channel": {"stop": "strategy::stop", "task": "strategy::task", "start": "strategy::start", "status": "strategy::status"}}
 
